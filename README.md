@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/4d08289b-5915-4fbd-90de-a635dc6604d4)
 
 
-![image](https://github.com/user-attachments/assets/774e9142-30db-4072-8f31-2a06abe78012)
+![image](https://github.com/user-attachments/assets/e118567f-23fe-47c4-baee-60aeb96f821f)
 
 
 **修复指定Hosts地址无法上线BUG**
