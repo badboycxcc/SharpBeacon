@@ -2,14 +2,16 @@
 
 **增加Https协议支持**
 
-
-
-**修复指定Hosts地址无法上线BUG**
-
 ![image](https://github.com/user-attachments/assets/4d08289b-5915-4fbd-90de-a635dc6604d4)
 
 
 ![image](https://github.com/user-attachments/assets/774e9142-30db-4072-8f31-2a06abe78012)
+
+
+**修复指定Hosts地址无法上线BUG**
+![image](https://github.com/user-attachments/assets/11c6ae93-7188-4f81-97f8-59e97aedd79b)
+
+
 
 --------------------------------------------------------- 
 
